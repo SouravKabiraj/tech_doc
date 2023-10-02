@@ -1,4 +1,4 @@
-# Check List to write an awesome tech documents
+# Technical Writing
 
 ## Words
 
