@@ -59,7 +59,7 @@ Example:
             <strong>Weak Verb <em><a href="https://www.symbolcopy.com/cross-symbols.html">❌</a></em></strong>
         </td>
         <td>
-            <strong>Strong Verb <em>✔ </em></strong>
+            <strong>Strong Verb <em>✅ </em></strong>
         </td>
     </tr>
     <tr>
@@ -92,12 +92,12 @@ Example:
 
 There is a variable called mettrick that stores the current
 accuracy. ❌ \
-A variable named mettrick stores the current accuracy. The mettrick variable stores the current accuracy. ✔
+A variable named mettrick stores the current accuracy. The mettrick variable stores the current accuracy. ✅
 
 ### Minimize certain adjectives and adverbs (optional)
 
 ❌ Setting this flag makes the application run screamingly fast. \
-✔ Setting this flag makes the application run 225-250% faster.
+✅ Setting this flag makes the application run 225-250% faster.
 
 ## Short sentences
 
@@ -112,7 +112,7 @@ sentences should execute a single idea. For example, the following very long sen
             <em><a href="https://www.symbolcopy.com/cross-symbols.html"> ❌</a> The late 1950s was a key era for programming languages because IBM introduced Fortran in 1957 and John McCarthy introduced Lisp the following year, which gave programmers both an iterative way of solving problems and a recursive way.</em>
         </td>
         <td>
-            <em>✔ The late 1950s was a key era for programming languages. IBM introduced Fortran in 1957. John McCarthy invented Lisp the following year. Consequently, by the late 1950s, programmers could solve problems iteratively or recursively.</em>
+            <em>✅ The late 1950s was a key era for programming languages. IBM introduced Fortran in 1957. John McCarthy invented Lisp the following year. Consequently, by the late 1950s, programmers could solve problems iteratively or recursively.</em>
         </td>
     </tr>
 </table>
@@ -126,10 +126,10 @@ or numbered list.
 ### Eliminate or reduce extraneous words
 
 ❌ An input value greater than 100 causes the triggering of logging. \
-✔ An input value greater than 100 triggers logging. \
+✅ An input value greater than 100 triggers logging. \
 ❌ This design document provides a detailed description of Project
 Frambus. \
-✔ This design document describes Project Frambus.
+✅ This design document describes Project Frambus.
 
 ### Reduce subordinate clauses (optional)
 
@@ -146,8 +146,8 @@ this sentence in two.
 
 In the United States, reserve which for nonessential subordinate clauses, and use that for an essential subordinate
 clause that the sentence can't live without. \
-✔ Python is an interpreted language, which Guido van Rossum invented. \
-✔ Fortran is perfect for mathematical calculations that don't involve linear algebra.
+✅ Python is an interpreted language, which Guido van Rossum invented. \
+✅ Fortran is perfect for mathematical calculations that don't involve linear algebra.
 
 ## Lists and tables
 
@@ -193,10 +193,10 @@ start. For example, notice how all of the items in the following parallel number
 If the list item is a sentence, use sentence capitalization and punctuation. Otherwise, do not use sentence
 capitalization and punctuation. For example, the following list item is a sentence, so we capitalized the M in Most and
 put a period at the end of the sentence:
-> Most carambolas have five ridges. ✔
+> Most carambolas have five ridges. ✅
 
 However, the following list item is not a sentence, so we left the t in the in lowercase and omitted a period: \
-> the color of lemons ✔
+> the color of lemons ✅
 
 ### Create useful tables
 
@@ -356,21 +356,23 @@ Binary mode relies on the more compact native form (described later in this docu
 
 
 ### Summary
-<ol>
-<li>Use terms consistently.</li>
-<li>Avoid ambiguous pronouns.</li>
-<li>Prefer active voice to passive voice.</li>
-<li>Pick specific verbs over vague ones.</li>
-<li>Focus each sentence on a single idea.</li>
-<li>Convert some long sentences to lists.</li>
-<li>Eliminate unneeded words.</li>
-<li>Use a numbered list when ordering is important and a bulleted list when ordering is irrelevant.</li>
-<li>Keep list items parallel.</li>
-<li>Start numbered list items with imperative words.</li>
-<li>Introduce lists and tables appropriately.</li>
-<li>Create great opening sentences that establish a paragraph's central point.</li>
-<li>Focus each paragraph on a single topic.</li>
-<li>Determine what your audience needs to learn.</li>
-<li>Fit documentation to your audience.</li>
-<li>Establish your document's key points at the start of the document.</li>
-</ol>
+
+- [X] Use terms consistently.
+- [X] Avoid ambiguous pronouns.
+- [X] Prefer active voice to passive voice.
+- [X] Pick specific verbs over vague ones.
+- [X] Focus each sentence on a single idea.
+- [X] Convert some long sentences to lists.
+- [X] Eliminate unneeded words.
+- [X] Use a numbered list when ordering is important and a bulleted list when ordering is irrelevant.
+- [X] Keep list items parallel.
+- [X] Start numbered list items with imperative words.
+- [X] Introduce lists and tables appropriately.
+- [X] Create great opening sentences that establish a paragraph's central point.
+- [X] Focus each paragraph on a single topic.
+- [X] Determine what your audience needs to learn.
+- [X] Fit documentation to your audience.
+- [X] Establish your document's key points at the start of the document.
+
+## Reference
+https://developers.google.com/tech-writing/one
