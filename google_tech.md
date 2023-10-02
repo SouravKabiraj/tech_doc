@@ -35,7 +35,7 @@ The OGS root forwards the request to the leaves and collects the responses.
 * Only use a pronoun after you've introduced the noun; never use the pronoun before you've introduced the noun.
 * Place the pronoun as close as possible to the referring noun. In general, if more than five words separate your noun
   from your pronoun, consider repeating the noun instead of using the pronoun.
-* If you introduce a second noun between your noun and your pronoun, reuse your noun instead of using a pronoun. \
+* If you introduce a second noun between your noun and your pronoun, reuse your noun instead of using a pronoun.
 
 ## Active voice vs. passive voice
 
@@ -45,7 +45,7 @@ Active voice provides the following advantages:
   sticking to active voice, you enable readers to skip the preprocessor stage and go straight to compilation.
 * Passive voice obfuscates your ideas, turning sentences on their head. Passive voice reports action indirectly.
 * Some passive voice sentences omit an actor altogether, which forces the reader to guess the actor's identity.
-* Active voice is generally shorter than passive voice. \
+* Active voice is generally shorter than passive voice.
 
 ## Clear sentences
 
